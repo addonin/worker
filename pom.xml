@@ -81,4 +81,12 @@
         </repository>
     </repositories>
 
+    <pluginRepositories>
+        <pluginRepository>
+            <id>spring-milestone</id>
+            <name>spring-milestone</name>
+            <url>http://repo.spring.io/milestone/</url>
+        </pluginRepository>
+    </pluginRepositories>
+
 </project>
