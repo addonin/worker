@@ -1,4 +1,4 @@
-Test project using: 
+Test project using:
 - Openshift
 - Docker
 - Spring Boot
